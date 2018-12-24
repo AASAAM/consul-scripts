@@ -7,7 +7,7 @@ SELFSCRIPTNAME=$(basename $0)
 
 function usage()
 {
-    echo "Memory - Consule Script"
+    echo "Disk Usage - Consule Script"
     echo ""
     echo "$SELFSCRIPTNAME"
     echo "  -h --help"
